@@ -10,7 +10,8 @@ B. command line, maya shelf, script editor\
 \
 C. v2.76\
 \
-D. a. integer b. type(test_variable);\
+D. a. string b. type(test_variable);\
 \
-E. Create: Query: Edit:\
+E. Create:creates object Query: pulls data Edit: edits existing properties\
+\
 }
